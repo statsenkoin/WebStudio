@@ -1,8 +1,4 @@
-# goit-markup-hw-08
-
-    normalize
-    fonts
-    vars
-    @media - web-kit
+Two-pages Web studio company website with responsive layout, burger
+menu, and modal window.
 
 
